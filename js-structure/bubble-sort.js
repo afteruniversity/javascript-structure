@@ -19,3 +19,13 @@ function BubbleSort(array) {
 }
 
 BubbleSort(nums);
+
+// Bubble Sort é um algoritimo de ordenação.
+// A proposta é que ele coloque os elementos em ordem.
+
+// Se o elemento a esquerda for maior que o elemento a direita, então, deve haver uma troca dos valores.
+
+// A ideia é sempre deixar o maior valor a direita,
+// e caso não seja maior, então o índice vai fazer a comparação do item que estava a direita com o próximo
+
+// O MAIOR elemento deve estar posicionado a direita.
