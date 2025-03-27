@@ -1,4 +1,4 @@
-<h1> Estrutura de Dados com JavScript!</h1>
+<h1> Estrutura de Dados com JavaScript!</h1>
 <p>🎯 Implementação de diferentes estruturas de dados e algoritmos de ordenação,
 incluindo:
 </p>
