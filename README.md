@@ -13,7 +13,10 @@ incluindo:
     ✅ Listas ligadas
   </li>
   <li>
-    ✅ Uma estrutura avançada (ex: algoritmo de ordenação Bubble Sort)
+    ✅ Métodos de mapeamento
+  </li>
+  <li>
+    ✅ Algoritmo de ordenação Bubble Sort
   </li>
 </ul>
 <p>Visualização no <a href="https://codepen.io/cleslley/pen/vEYGVgr">Codepen</a></p>
